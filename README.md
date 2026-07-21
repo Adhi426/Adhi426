@@ -122,7 +122,8 @@ Dark terminal-inspired portfolio built from scratch.
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Adhi426&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhi426&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Adhi426&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400
+"/>
 
 </p>
 
