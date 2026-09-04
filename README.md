@@ -19,7 +19,7 @@
 ║                SYSTEM INITIALIZED                   ║
 ╠══════════════════════════════════════════════════════╣
 ║ USER      : Adhithya N                              ║
-║ ROLE      : Full Stack Developer                    ║
+║ ROLE      : Student || Full Stack Developer                    ║
 ║ EDUCATION : B.Tech Information Technology           ║
 ║ COLLEGE   : V.S.B Engineering College               ║
 ║ CGPA      : 8.29                                    ║
