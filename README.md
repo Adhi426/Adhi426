@@ -345,14 +345,14 @@ https://github.com/Adhi426/speech_topic_assigner
 
 <p align="center">
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=Adhi426&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" 
-  height="180"
+<img
+  src="./profile/stats.svg"
+  alt="GitHub Statistics"
 />
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhi426&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" 
-  height="180"
+<img
+  src="./profile/top-langs.svg"
+  alt="Top Languages"
 />
 
 </p>
@@ -375,8 +375,9 @@ https://github.com/Adhi426/speech_topic_assigner
 
 <p align="center">
 
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Adhi426&theme=tokyo-night&hide_border=true&area=true" 
+<img
+  src="./profile/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Graph"
 />
 
 </p>
