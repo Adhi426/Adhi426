@@ -371,18 +371,32 @@ https://github.com/Adhi426/speech_topic_assigner
 
 ---
 
-# 📈 Contribution Graph
+<h2 align="center">📊 GITHUB ANALYTICS</h2>
 
 <p align="center">
-
-<img
-  src="./profile/github-contribution-grid-snake-dark.svg"
-  alt="GitHub Contribution Graph"
-/>
-
+  <img src="./profile/stats.svg" width="49%" alt="GitHub Statistics">
+  <img src="./profile/top-langs.svg" width="49%" alt="Top Languages">
 </p>
 
----
+<br>
+
+<h2 align="center">🐍 CONTRIBUTION GRAPH</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./profile/github-snake-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./profile/github-snake.svg">
+
+    <img
+      src="./profile/github-snake.svg"
+      alt="GitHub Contribution Graph"
+      width="100%">
+  </picture>
+</p>
 # 🎯 2026 Goals
 
 ```text
