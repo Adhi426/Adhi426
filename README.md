@@ -371,15 +371,6 @@ https://github.com/Adhi426/speech_topic_assigner
 
 ---
 
-<h2 align="center">📊 GITHUB ANALYTICS</h2>
-
-<p align="center">
-  <img src="./profile/stats.svg" width="49%" alt="GitHub Statistics">
-  <img src="./profile/top-langs.svg" width="49%" alt="Top Languages">
-</p>
-
-<br>
-
 <h2 align="center">🐍 CONTRIBUTION GRAPH</h2>
 
 <p align="center">
@@ -397,7 +388,7 @@ https://github.com/Adhi426/speech_topic_assigner
       width="100%">
   </picture>
 </p>
-# 🎯 2026 Goals
+🎯 2026 Goals
 
 ```text
 [✓] Build production-ready AI projects
