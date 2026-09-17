@@ -391,7 +391,7 @@ https://github.com/Adhi426/speech_topic_assigner
       media="(prefers-color-scheme: light)"
       srcset="./profile/github-snake.svg">
 
-    <img
+<img
       src="./profile/github-snake.svg"
       alt="GitHub Contribution Graph"
       width="100%">
