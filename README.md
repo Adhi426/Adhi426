@@ -1,13 +1,14 @@
 <div align="center">
 
-# ⚡ ADHI OS v1.0
+# ⚡ ADHI OS v2.0
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Hi+I'm+Adhithya+N;Full+Stack+Developer;Building+AI-Driven+Systems;Open+to+Internships+%26+Collaborations" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=750&lines=Hi+I'm+Adhithya+N;Full+Stack+Developer;Building+AI-Driven+Systems;Exploring+Agentic+AI+%26+Security;Open+to+Internships+%26+Collaborations" />
 
 <p>
 <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00ff99?style=for-the-badge&logo=github&logoColor=black"/>
 <img src="https://img.shields.io/badge/FOCUS-AI_+_WEB-0A0A0A?style=for-the-badge&color=00C896"/>
-<img src="https://img.shields.io/badge/LOCATION-Tamil_Nadu-1F2937?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SECURITY-AI_+_CYBERSECURITY-111827?style=for-the-badge&color=00FF9C"/>
+<img src="https://img.shields.io/badge/LOCATION-TAMIL_NADU-1F2937?style=for-the-badge"/>
 </p>
 
 </div>
@@ -16,13 +17,15 @@
 
 ```text
 ╔══════════════════════════════════════════════════════╗
-║                SYSTEM INITIALIZED                   ║
+║                  SYSTEM INITIALIZED                 ║
 ╠══════════════════════════════════════════════════════╣
 ║ USER      : Adhithya N                              ║
-║ ROLE      : Student || Full Stack Developer                    ║
+║ USERNAME  : Adhi426                                 ║
+║ ROLE      : Student || Full Stack Developer         ║
 ║ EDUCATION : B.Tech Information Technology           ║
 ║ COLLEGE   : V.S.B Engineering College               ║
 ║ CGPA      : 8.29                                    ║
+║ FOCUS     : AI || Full Stack || Security             ║
 ║ STATUS    : 🟢 Available for Internships            ║
 ╚══════════════════════════════════════════════════════╝
 ```
@@ -33,86 +36,306 @@
 Name      : Adhithya N
 Username  : Adhi426
 Location  : Kumbakonam, Tamil Nadu
-Focus     : AI • Full Stack • Security
-Learning  : Computer Vision • Backend • Cloud
-Goal      : Build products that solve real-world problems
+Education : B.Tech Information Technology
+Focus     : AI • Full Stack • Cybersecurity
+Interests : AI Systems • Computer Vision • Backend
+            Agentic AI • Security • Cloud
+Goal      : Build intelligent products that solve
+            real-world problems
 ```
+
+I'm an Information Technology student and Full Stack Developer interested in building **AI-powered, secure, and practical software systems**.
+
+My projects range from **AI risk analysis and deepfake detection** to **agentic commerce, cybersecurity, research explainers, and full-stack web applications**.
+
+I enjoy turning ideas into working products and exploring how AI can be combined with modern software engineering.
 
 ---
 
 # 🚀 Current Mission
 
-- 🤖 Building AI-powered applications
-- 🌐 Developing scalable web applications
-- 🔐 Exploring AI for cybersecurity
-- 📚 Learning advanced backend architecture
-- ❤️ Contributing to Open Source
+* 🤖 Building practical AI-powered applications
+* 🧠 Exploring AI agents and intelligent systems
+* 🔐 Developing AI-driven cybersecurity solutions
+* 👁️ Exploring Computer Vision and media forensics
+* 🌐 Building full-stack web applications
+* ⚙️ Learning scalable backend architecture
+* ☁️ Exploring cloud deployment
+* 📚 Contributing to Open Source
+* 💼 Looking for Software Development / AI internships
 
 ---
 
 # 🛠 Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,html,css" />
 </p>
 
-### Frameworks & Tools
+### 🌐 Web & Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=bootstrap,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,bootstrap" />
 </p>
+
+### 🗄️ Databases & Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase" />
+</p>
+
+### 🤖 AI / Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,git,github,vscode" />
+</p>
+
+### 🔧 Areas of Interest
+
+```text
+Artificial Intelligence
+Machine Learning
+Computer Vision
+Generative AI
+Agentic AI
+Cybersecurity
+Full Stack Development
+Backend Architecture
+Cloud Technologies
+```
 
 ---
 
 # 🚀 Featured Projects
 
-## 🧠 AI Deepfake Detection
+## 🏦 SentinelRisk AI — Bank Risk Assistant
 
-> Detects manipulated media using AI models.
+> AI-assisted banking risk and fraud investigation system designed to analyze suspicious transactions and provide evidence-based explanations.
+
+### 🔥 Highlights
+
+* Rule-based risk detection
+* Transaction velocity analysis
+* Off-hours activity detection
+* Baseline anomaly detection
+* AI-assisted investigation explanations
+* Audit-friendly outputs
+* Responsible AI guardrails
 
 **Tech**
 
-`Python` `Machine Learning` `Computer Vision`
+`Python` `FastAPI` `Gemini` `SQLite` `Machine Learning`
+
+🔗 **Repository:**
+https://github.com/Adhi426/bank_risk_assistant
 
 ---
 
-## 🎥 AI Motion Sensoring
+## 🛒 Agentic Commerce Gateway
 
-Real-time motion detection system for intelligent monitoring.
+> Security and policy layer for AI agents interacting with payment and commerce systems.
+
+### 🔥 Highlights
+
+* AI-agent transaction validation
+* Budget and price validation
+* Inventory verification
+* Payment gateway integration
+* Policy enforcement
+* SHA-256 hash-chained audit ledger
+* Secure agent spending workflow
 
 **Tech**
 
-`Python`
+`Next.js` `TypeScript` `Razorpay` `Node.js` `AI Agents`
+
+🔗 **Repository:**
+https://github.com/Adhi426/agentic-commerce-gateway
 
 ---
 
-## 🚗 Vehicle Smart Monitoring System
+## 🕵️ Omni Detector — AI Deepfake Detection
 
-**Currently Building**
+> AI-powered media forensics system designed to analyze potentially manipulated images and media.
 
-- Vehicle health monitoring
-- Predictive maintenance
-- Smart alerts
+### 🔥 Highlights
+
+* AI-based media analysis
+* Deepfake detection workflow
+* Computer Vision
+* Vision AI integration
+* Web-based interface
+* FastAPI backend
+
+**Tech**
+
+`Next.js` `FastAPI` `Python` `Gemini Vision` `Computer Vision`
+
+🔗 **Repository:**
+https://github.com/Adhi426/omni_detector
 
 ---
 
-## 🛡 AI Firewall
+## 🧠 BDH Memory Explainer
 
-Adaptive firewall powered by AI for intelligent threat detection.
+> Interactive research-oriented visualization exploring fast-weight / Hebbian memory concepts and transformer KV-cache memory.
+
+### 🔥 Highlights
+
+* Interactive AI concepts
+* Hebbian fast-weight memory
+* Transformer KV-cache comparison
+* Mathematical visualization
+* Research paper concepts converted into an interactive application
+
+**Tech**
+
+`Next.js` `TypeScript` `React` `AI Research`
+
+🔗 **Repository:**
+https://github.com/Adhi426/bdh-memory-explainer
 
 ---
 
-## 🌐 Hostel Website
+## 🛡️ AI Firewall System
 
-Responsive hostel management website.
+> AI-assisted cybersecurity system designed to explore intelligent threat detection and adaptive security.
+
+### 🔥 Highlights
+
+* Threat detection
+* AI-assisted security analysis
+* Firewall concepts
+* Intelligent monitoring
+* Cybersecurity experimentation
+
+**Tech**
+
+`Python` `AI` `Cybersecurity`
+
+🔗 **Repository:**
+https://github.com/Adhi426/AI-Firewall-System
 
 ---
 
-## 💻 Portfolio Website
+## ⚡ Parallel Text Handling Processor
 
-Dark terminal-inspired portfolio built from scratch.
+> Python-based parallel processing system designed to efficiently process and handle large amounts of text.
+
+### 🔥 Highlights
+
+* Parallel processing
+* Text processing
+* Performance-oriented architecture
+* Python concurrency concepts
+
+**Tech**
+
+`Python` `Parallel Processing`
+
+🔗 **Repository:**
+https://github.com/Adhi426/PYTHON-PARALLEL-TEXT-HANDLING-PROCESSOR
+
+---
+
+# 🌐 Full Stack Projects
+
+## 💬 VYORA — Social Media Platform
+
+> Full-stack social media platform with authentication, posts, interactions, and social features.
+
+**Tech**
+
+`MongoDB` `Express.js` `React` `Node.js`
+
+🔗 https://github.com/Adhi426/Social_media_platform
+
+---
+
+## 🛍️ NEXORA — E-Commerce Store
+
+> Full-stack e-commerce platform featuring products, authentication, cart and order workflows.
+
+**Tech**
+
+`MongoDB` `Express.js` `React` `Node.js`
+
+🔗 https://github.com/Adhi426/e_commerce_store
+
+---
+
+## 👥 WorkSync — HR Management System
+
+> Team-based HR management project focused on employee and workplace management workflows.
+
+**Tech**
+
+`Web Development` `JavaScript` `Backend`
+
+🔗 https://github.com/Adhi426/day_flow
+
+---
+
+# 🎓 Academic & Practice Projects
+
+### 📋 Project Management Tool
+
+Project management application exploring task and project organization.
+
+`Web Development`
+
+https://github.com/Adhi426/Project_management_tool
+
+---
+
+### 🎬 Movie Ticket Booking — PEGA
+
+Movie ticket booking workflow developed as part of PEGA learning and practice.
+
+`PEGA`
+
+https://github.com/Adhi426/movie-ticket-booking-pega
+
+---
+
+### 🎤 Speech Topic Assigner
+
+Application for assigning speech topics and managing topic allocation.
+
+`Web Development`
+
+https://github.com/Adhi426/speech_topic_assigner
+
+---
+
+# 🧩 Project Portfolio Map
+
+```text
+                    ┌──────────────────────┐
+                    │      ADHI OS         │
+                    │   AI + FULL STACK    │
+                    └──────────┬───────────┘
+                               │
+          ┌────────────────────┼────────────────────┐
+          │                    │                    │
+          ▼                    ▼                    ▼
+     🤖 AI SYSTEMS       🌐 FULL STACK        🔐 SECURITY
+          │                    │                    │
+    SentinelRisk AI        VYORA               AI Firewall
+    Omni Detector         NEXORA              Risk Analysis
+    BDH Memory            WorkSync            Threat Detection
+          │                    │                    │
+          └────────────────────┼────────────────────┘
+                               │
+                               ▼
+                     🧠 EMERGING TECHNOLOGY
+                               │
+                    Agentic Commerce Gateway
+                    Parallel Processing
+                    AI Research Exploration
+```
 
 ---
 
@@ -120,12 +343,15 @@ Dark terminal-inspired portfolio built from scratch.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Adhi426&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Adhi426&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Adhi426&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400
-"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhi426&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+---
+
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -147,23 +373,55 @@ Dark terminal-inspired portfolio built from scratch.
 
 # 🎯 2026 Goals
 
-- ✅ Build production-ready AI projects
-- ✅ Master Full Stack Development
-- ✅ Learn Cloud Deployment
-- ✅ Contribute to Open Source
-- ✅ Secure a Software Development Internship
+```text
+[✓] Build production-ready AI projects
+
+[✓] Build practical full-stack applications
+
+[✓] Explore AI + Cybersecurity
+
+[✓] Experiment with Agentic AI
+
+[ ] Master Cloud Deployment
+
+[ ] Contribute to Open Source
+
+[ ] Build larger production-scale systems
+
+[ ] Secure a Software Development / AI Internship
+```
 
 ---
 
-# 🏆 Certifications
+# 🏆 Certifications & Achievements
 
-🏅 NPTEL — Data Science for Engineers
+🏅 **NPTEL — Data Science for Engineers**
 
-🏅 Full Stack Development Internship — Thiranex
+🏅 **Full Stack Development Internship — Thiranex**
 
-🏅 Hindi Proficiency (8 Levels)
+🏅 **Hindi Proficiency — 8 Levels**
 
-🏅 Junior English Typewriting
+🏅 **Junior English Typewriting**
+
+---
+
+# 💡 What I'm Interested In
+
+```text
+┌────────────────────────────────────────────┐
+│                                            │
+│  🤖 Artificial Intelligence                │
+│  🧠 Machine Learning                       │
+│  👁️ Computer Vision                       │
+│  🔐 AI Cybersecurity                       │
+│  🤝 Agentic AI                             │
+│  🌐 Full Stack Development                 │
+│  ⚙️ Backend Engineering                    │
+│  ☁️ Cloud Technologies                     │
+│  🔬 AI Research & Experimentation          │
+│                                            │
+└────────────────────────────────────────────┘
+```
 
 ---
 
@@ -176,11 +434,11 @@ Dark terminal-inspired portfolio built from scratch.
 </a>
 
 <a href="https://github.com/Adhi426">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/adhithyanavaneethakrishnan/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
@@ -192,19 +450,25 @@ Dark terminal-inspired portfolio built from scratch.
 ```text
 > SYSTEM STATUS
 
-AI ██████████░░ 80%
+AI SYSTEMS       ██████████░░  85%
 
-FULL STACK █████████░ 75%
+FULL STACK       █████████░░░  80%
 
-PROBLEM SOLVING █████████░ 80%
+CYBERSECURITY    ████████░░░░  70%
 
-OPEN SOURCE ██████░░░░ 55%
+PROBLEM SOLVING  █████████░░░  80%
+
+OPEN SOURCE      ██████░░░░░░  55%
+
+LEARNING MODE    ████████████  100%
 ```
+
+### ⚡ SYSTEM ONLINE
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Build. Learn. Share. Repeat."*
+*"Build. Learn. Experiment. Share. Repeat."*
 
-![](https://komarev.com/ghpvc/?username=Adhi426&style=for-the-badge&color=00ff99)
+![](https://komarev.com/ghpvc/?username=Adhi426\&style=for-the-badge\&color=00ff99)
 
 </div>
