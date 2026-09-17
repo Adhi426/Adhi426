@@ -339,13 +339,21 @@ https://github.com/Adhi426/speech_topic_assigner
 
 ---
 
+---
+
 # 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Adhi426&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=Adhi426&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" 
+  height="180"
+/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhi426&layout=compact&theme=tokyonight&hide_border=true"/>
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhi426&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" 
+  height="180"
+/>
 
 </p>
 
@@ -355,7 +363,9 @@ https://github.com/Adhi426/speech_topic_assigner
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adhi426&theme=tokyonight&hide_border=true"/>
+<img 
+  src="https://streak-stats.demolab.com?user=Adhi426&theme=tokyonight&hide_border=true" 
+/>
 
 </p>
 
@@ -365,12 +375,13 @@ https://github.com/Adhi426/speech_topic_assigner
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adhi426&theme=tokyo-night&hide_border=true"/>
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Adhi426&theme=tokyo-night&hide_border=true&area=true" 
+/>
 
 </p>
 
 ---
-
 # 🎯 2026 Goals
 
 ```text
